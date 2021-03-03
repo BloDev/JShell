@@ -3,7 +3,7 @@
 ## Description
 A mock Bash shell developed in Java within a team of four using the Agile Scrum methodology.
 
-It incorporates many different Software Design patterns such as the Singleton, Injection, and Composite design pattern.
+It incorporates many different Software Design patterns such as the Singleton, Dependency Injection, and Composite design pattern.
 
 Object-Oriented principles such as encapsulation, abstraction, inheritance, and polymorphism were used during the development process to ensure reusable and maintainable code. More specifically, Object-Oriented guidelines such as the Single Responsibility and Liskov Substitution principle were followed.
 
