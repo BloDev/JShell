@@ -14,12 +14,12 @@ Version control was done with SVN.
 - Project files
 - JDK 11.0.8
 ### Compiling
-Run the following command inside of the `src` directory:
+Navigate inside of the `src` directory and run the following command:
 ```
 $ javac driver/JShell.java
 ```
 ### Executing
-Run the following command inside of the `src` directory:
+Run the following command inside of the same `src` directory:
 ```
 $ java driver/JShell
 ```
