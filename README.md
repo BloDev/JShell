@@ -1,6 +1,4 @@
 # JShell
-
-## Description
 A mock Bash shell developed in Java within a team of four using the Agile Scrum methodology.
 
 It incorporates many different Software Design patterns such as the Singleton, Dependency Injection, and Composite design pattern.
@@ -10,6 +8,21 @@ Object-Oriented principles such as encapsulation, abstraction, inheritance, and 
 Testing was done with JUnit.
 
 Version control was done with SVN.
+
+## Running the Program
+### Prerequisites
+- Project files
+- JDK 11.0.8
+### Compiling
+Run the following command inside of the `src` directory:
+```
+$ javac driver/JShell.java
+```
+### Executing
+Run the following command inside of the `src` directory:
+```
+$ java driver/JShell
+```
 
 ## Supported Commands
 - exit
