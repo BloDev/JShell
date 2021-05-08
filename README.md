@@ -1,5 +1,5 @@
 # JShell
-A mock Unix shell developed in Java within a team of four using the Agile Scrum methodology.
+A mock Bash shell developed in Java within a team of four using the Agile Scrum methodology.
 
 It incorporates many different Software Design patterns such as the Singleton, Dependency Injection, and Composite design pattern.
 
