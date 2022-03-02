@@ -16,7 +16,7 @@ Version control was done with SVN.
 ### Compiling
 Navigate inside of the `src` directory and run the following command:
 ```
-$ javac driver/JShell.java
+$ javac commands/*.java containers/*.java driver/*.java system/*.java
 ```
 ### Executing
 Run the following command inside of the same `src` directory:
